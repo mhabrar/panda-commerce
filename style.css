@@ -67,3 +67,25 @@
     box-shadow: 5px 5px lightgray;
     
 }
+.new button2{
+    background-image: linear-gradient(to bottom,#ff589b 0%,#ff136f 100%);
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+}
+.another{
+    background-image: linear-gradient(to bottom,#ff589b 0%,#ff136f 100%);
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+}
+#contact {
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
